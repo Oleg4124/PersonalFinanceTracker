@@ -5,7 +5,7 @@ using PersonalFinanceTracker.Domain.Dtos;
 using PersonalFinanceTracker.Domain.Entities;
 using PersonalFinanceTracker.Domain.Helpers;
 using PersonalFinanceTracker.Domain.Mapper;
-using PersonalFinanceTracker.Infrastracture.Data;
+using PersonalFinanceTracker.Infrastructure.Data;
 
 namespace PersonalFinanceTracker.Application.Services
 {
