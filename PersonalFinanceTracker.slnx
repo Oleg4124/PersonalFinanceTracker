@@ -3,7 +3,7 @@
     <Project Path="PersonalFinanceTracker.Api/PersonalFinanceTracker.Api.csproj" Id="0cc4f891-3800-4c55-bfb5-7bc95dd43476" />
     <Project Path="PersonalFinanceTracker.Application/PersonalFinanceTracker.Application.csproj" Id="d54adb8c-8fa3-4b79-9971-49d1593f9b6c" />
     <Project Path="PersonalFinanceTracker.Domain/PersonalFinanceTracker.Domain.csproj" />
-    <Project Path="PersonalFinanceTracker.Infrastracture/PersonalFinanceTracker.Infrastracture.csproj" Id="20b48a0b-8ccd-497c-81f9-72bab3e52c5a" />
+    <Project Path="PersonalFinanceTracker.Infrastructure/PersonalFinanceTracker.Infrastructure.csproj" Id="20b48a0b-8ccd-497c-81f9-72bab3e52c5a" />
   </Folder>
   <Folder Name="/tests/">
     <Project Path="PersonalFinanceTracker.UnitTests/PersonalFinanceTracker.UnitTests.csproj" />

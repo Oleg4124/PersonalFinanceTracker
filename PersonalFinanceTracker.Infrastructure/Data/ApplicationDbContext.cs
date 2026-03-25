@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using PersonalFinanceTracker.Domain.Entities;
 
-namespace PersonalFinanceTracker.Infrastracture.Data
+namespace PersonalFinanceTracker.Infrastructure.Data
 {
 	public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
 		: DbContext(options)
